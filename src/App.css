@@ -27,6 +27,10 @@ input:hover{
 nav{
   padding: 10px 30px;
   background-color: #898989;
+  position: sticky;
+  z-index: 100;
+  top: 0;
+  width: 100%;
 }
 nav,.left{
   display: flex;
