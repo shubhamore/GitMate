@@ -1,6 +1,6 @@
 # GitMate
 
-GitMate is a React app that allows users to view multiple GitHub profiles in one convenient location. With ProfileHub, you can add GitHub profiles based on their usernames, delete individual or all profiles. The app also features smooth transitions for a seamless user experience and utilizes local storage to prevent data loss.
+GitMate is a React app that allows users to view multiple GitHub profiles in one convenient location. With GitMate, you can add GitHub profiles based on their usernames, delete individual or all profiles. The app also features smooth transitions for a seamless user experience and utilizes local storage to prevent data loss.
 
 
 ## Usage
@@ -9,7 +9,7 @@ To add a GitHub profile to GitMate, simply enter the user's GitHub username in t
 
 To delete a single profile, click the "Delete" icon next to the profile you want to remove. To delete all profiles, click the "Delete All" button.
 
-ProfileHub also utilizes local storage to prevent data loss. If you accidentally close the app or refresh the page, your added profiles will still be available when you return.
+GitMate also utilizes local storage to prevent data loss. If you accidentally close the app or refresh the page, your added profiles will still be available when you return.
 
 ## Demo
 
